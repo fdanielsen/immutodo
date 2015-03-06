@@ -1,0 +1,26 @@
+{
+  "name": "immutably",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "immutable": "^3.6.2",
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "babelify": "^5.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdanielsen/immutodo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdanielsen/immutodo/issues"
+  },
+  "homepage": "https://github.com/fdanielsen/immutodo"
+}
